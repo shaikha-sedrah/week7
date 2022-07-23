@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+font-family:'Kayak Sans', sans-serif;}
+html,body{
+    height:100%;
+    width:100%; }
+.land_page{
+display: block;
+background-color:#f6f5de;
+height:100%;
+width:100%;  }
+
+#intro_text{
+    font-weight:300;
+    font-size: 21px;
+}
+#logo {
+width: 35px 45px;
+height: 30px;
+padding:35px;}
+model-viewer{
+    width: 225px;
+height: 370px;
+}
+.land_page_content{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    width:70%;
+    height:70%;
+}
