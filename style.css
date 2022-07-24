@@ -31,7 +31,7 @@ height: 30px;
 padding:35px;}
 model-viewer{
 width: 225px;
-height: 390px;
+height: 400px;
 }
 .land_page_content{
     display: flex;
@@ -94,5 +94,5 @@ transform: rotateZ(180deg);}
     text-align: center;
 }
 .slider_title,.end_text{
-    font-weight:300;
+    font-weight:300!important;
 }
