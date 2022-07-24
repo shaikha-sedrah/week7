@@ -93,3 +93,6 @@ transform: rotateZ(180deg);}
     font-size: 30px;
     text-align: center;
 }
+.slider_title,.end_text{
+    font-weight:300;
+}
